@@ -1,7 +1,7 @@
 bla = process.cwd()
 __path = process.cwd()
 
-const PORT = process.env.PORT || 4025
+const PORT = process.env.PORT || 3000
 
 const tiktokapidl = require("@tobyg74/tiktok-api-dl")
 const caliphapi = require("caliph-api");
