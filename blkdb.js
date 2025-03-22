@@ -3,7 +3,6 @@ __path = process.cwd()
 
 const PORT = process.env.PORT || 4025
 
-const FongsiDev_Scraper = require("neastoid-scraper")
 const tiktokapidl = require("@tobyg74/tiktok-api-dl")
 const caliphapi = require("caliph-api");
 const { xvideoss, xvideosdl, xnxxs, xnxxdl, openai, stalkig, aio, spotify, spotifydl, facebook } = require('betabotz-tools')
